@@ -1,0 +1,20 @@
+ 
+ # lambda function that adds 10 to the  numbers  passed in as  an  arguments and prints  results
+  
+ 
+  x= lambda a : a + 10
+  
+  print(x(5)
+  
+  # lambda can take any  number of arguments
+  
+  x  = lambda a,b : a * b
+  print (x(5,6))
+  
+  # as  mention above we can enter any number of arguments
+  
+  x = lambda a, b, c, d, e : a * b * c * d * e
+  print (x(1,2,3,4,5))
+  
+  
+  
